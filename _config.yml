@@ -86,8 +86,9 @@ deploy:
 # backup
 backup:
   type: git
-  repository:
-    github: git@github.com:love-999/love-999.github.io.git,backup
+  repo:
+    github: git@github.com:love-999/love-999.github.io.git
+  branch: backup
 
 #RSS
 feed:
