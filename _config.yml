@@ -86,7 +86,6 @@ deploy:
 # backup
 backup:
   type: git
-  message: backup my blog of https://yourname.github.io/
   repository:
     github: git@github.com:love-999/love-999.github.io.git,backup
 
