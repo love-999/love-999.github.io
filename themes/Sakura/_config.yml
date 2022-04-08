@@ -2,11 +2,11 @@
 prefixName: 久久玖❤️
 siteName: 小屋
 # favicon and site master avatar
-favicon: https://cdn.jsdelivr.net/gh/love-999/CDN-love-999@v0.0.1/favicon.ico
+favicon: /favicon.ico
 avatar: /avatar.jpg
 url: /
 description: 记录爱情 ❤️ 记录生活
-cdn: https://cdn.jsdelivr.net/gh/love-999/CDN-love-999@v0.0.1
+cdn: https://cdn.jsdelivr.net/gh/love-999/CDN-love-999@v0.0.2
 pjax: 1
 # 1开启
 mathjax: 0
