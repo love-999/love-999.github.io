@@ -19,8 +19,10 @@ menus:
   归档: { path: /archives, fa: fa-archive faa-shake }
   表白: { path: /loveyou/, fa: fa-heartbeat faa-tada }
   相册: { path: /album/, fa: fa-image faa-tada }
-  100件事: { path: /100-things/, fa: fa-envelope faa-wrench }
-  时间轴: { path: /LoveTimeline/, fa: fa-envelope-open faa-pulse}
+  宝藏: { path: /, fa: fa-home faa-shake , submenus: { 
+    爱情长跑线: { path: /LoveTimeline/, fa: fa-envelope-open faa-pulse },
+    100件事: { path: /100-things/, fa: fa-envelope faa-wrench }
+  }} 
   留言板: { path: /comment/, fa: fa-pencil-square-o faa-tada }
   友人帐: { path: /links/, fa: fa-link faa-shake }
   关于: { path: /, fa: fa-leaf faa-wrench , submenus: { 
